@@ -3,7 +3,7 @@ A project for seamless PKM-blog generation (initially in Neovim X HUGO).
 
 **Authors**: Espitia S., Gary; Marco D., Alejandro; Cantos G., Eduardo
 
-#![Roadmap](roadmap.svg?raw=true "v. date: 17/05/23")
+![Roadmap](roadmap.svg?raw=true "v. date: 17/05/23")
 
 ## Table of Contents
 
