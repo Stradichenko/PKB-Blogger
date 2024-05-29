@@ -1,4 +1,4 @@
-# PKM-blogger (DRAFT)
+# PKB-blogger (DRAFT)
 A project for seamless CMS-blog and information generation (initially in Neovim X HUGO).
 
 **Authors**: Espitia S., Gary; Cantos G., Eduardo
